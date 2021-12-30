@@ -1,0 +1,144 @@
+body
+{
+    background: linear-gradient(#e66465, #9198e5);
+}
+
+#rcontainer
+{
+    float:left;
+    margin-left:auto !important;
+    margin-right:auto !important;
+    width:1500px;
+}
+
+#reklama
+{
+    float:left;
+}
+
+#rlogo
+{
+    background-color:rgb(255, 42, 173);
+    text-align:center;
+    font-size:50px;
+    color:black;
+    padding:15px;
+}
+
+#rtopbar
+{
+    background-color:rgb(255, 59, 190);
+    text-align:center;
+    font-size:30px;
+}
+
+#rcontent
+{
+    background-color:gray;
+}
+
+.dziwka
+{
+    float:left;
+    background-color:pink;
+    text-align:center;
+    font-size:40px;
+    padding:40px;
+    padding-right:33px;
+    border-right:dotted gray 2px;
+}
+
+.dziwka:hover
+{
+    background-color:rgb(255, 96, 123);
+}
+
+#RPRZERWA
+{
+    clear:both;
+    background-color:rgb(255, 59, 190);
+    font-size:30px;
+    text-align:center;
+}
+
+#wiecej
+{
+    font-size:40px;
+    background-color:rgb(255, 59, 190);
+    text-align:center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+ }
+ 
+ #logo
+ {
+	 background-color:rgb(255, 42, 173);
+	 text-align:center;
+	 font-size:40px;
+ }
+ 
+ #punktacja
+ {
+	 font-size:20px;
+	 float:left;
+ }
+ 
+ #o
+ {
+	 font-size:20px;
+	 float:right;
+ }
+
+#murzyn
+{
+    max-height:900px;
+}
+
+ .obraz
+ {
+     float:left;
+     padding-right:20px;
+     width:920px;
+ }
+
+ .tekst
+ {
+    float:left;
+    font-size:30px;
+    text-align:center;
+ }
+
+ #ania
+ {
+     font-size:60px;
+     text-align: center;
+ }
+ 
+ .kasia
+ {
+    float:left;
+    font-size:24px;
+    text-align:center;
+ }
+
+ .bula
+ {
+    float:left;
+    font-size:30px;
+    text-align:center;
+ }
+
+ #ruchanie
+ {
+     text-align: center;
+     font-size: 30px;
+ }
+
+ #siema
+ {
+     font-size:20px;
+ }
+ 
